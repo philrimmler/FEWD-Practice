@@ -1,11 +1,9 @@
-.relaxr{ul {
-    list-style-position: inside;
-}}
 .joejohnson{
 	text-align: center;
 }
 .Portfolio{
-	text-align: center;
+	text-align: left;
+	list-style-position: left;
 }
 .experience{
 	text-align: center;

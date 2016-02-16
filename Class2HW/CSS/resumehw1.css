@@ -1,5 +1,9 @@
+main{
+	border-top: 5px solid black;
+}
 .joejohnson {
 	text-align: center;
+	border-top: 5px solid black;
 }
 .primaryresume{
 	text-align: left;
@@ -17,5 +21,7 @@
 }
 .middlebreak{
 	width: 100%;
-
+}
+hr{
+	clear: both;
 }
